@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1586534323 source:c:\users\prajjwal\desktop\biet ums\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cmath>
+	<conio.h>
+	<bits/stdc++.h>
+
+1586534323 source:c:\users\prajjwal\desktop\university-management-system\biet ums\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cmath>
+	<conio.h>
+	<bits/stdc++.h>
+
